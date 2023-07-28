@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+<array>
+  <dict>
+  <key>CFBundleURLSchemes</key>
+  <array>
+    <string>fb257274447077396</string>
+    <string>com.googleusercontent.apps.213499681043-lgao2r6j6iccmu3h3mtsbknlhtc47v0a</string>
+  </array>
+  </dict>
+</array>
+<key>FacebookAppID</key>
+<string>257274447077396</string>
+<key>FacebookDisplayName</key>
+<string>suckhoe123.vn</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<false/>
+	<key>GIDClientID</key>
+	<string>213499681043-lgao2r6j6iccmu3h3mtsbknlhtc47v0a.apps.googleusercontent.com</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>project_fonts/r-normal.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>VinChat</string>
+	</array>
+</dict>
+</plist>

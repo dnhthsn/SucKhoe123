@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>213499681043-805kf4tufdhfig95o5h3n1g7p9pih4po.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.213499681043-805kf4tufdhfig95o5h3n1g7p9pih4po</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>213499681043-mem80t74vlehgd6f69v58kve71q9o2c4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4dYqivSjCtfNg7-NCNGsHZegMcRKXCDc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>213499681043</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.suckhoe123.social.app.VinSocial</string>
+	<key>PROJECT_ID</key>
+	<string>suckhoe123-b8d31</string>
+	<key>STORAGE_BUCKET</key>
+	<string>suckhoe123-b8d31.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:213499681043:ios:a15c894476c2646448e2e6</string>
+	<key>DATABASE_URL</key>
+	<string>https://suckhoe123-b8d31.firebaseio.com</string>
+</dict>
+</plist>

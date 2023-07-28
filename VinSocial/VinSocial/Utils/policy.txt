@@ -1,0 +1,38 @@
+<p><b>ĐIỀU 1.  PHẠM VI ĐIỀU CHỈNH VÀ ĐỐI TƯỢNG ÁP DỤNG</b></p>
+<br>
+1.1.  Điều khoản, điều kiện giao dịch này quy định về việc quản lý, khai thác và sử dụng dịch vụ của các đối tác liên kết được cung cấp trên ứng dụng 123Chat  thuộc sở hữu của Công Ty TNHH Metaco Trương Văn
+<br>
+1.2.  Điều khoản, điều kiện giao dịch này áp dụng đối với các Khách hàng truy cập, mở tài khoản, sử dụng dịch vụ trên ứng dụng 123Chat do Metaco Trương Văn cung cấp.
+<br>
+<br>
+<p><b>ĐIỀU 2.  ĐỊNH NGHĨA</b></p>
+<br>
+2.1.  Dịch Vụ: có nghĩa là dịch vụ cho phép Khách hàng truy cập, quản lý, cập nhật các thông tin trên ứng dụng 123Chat. Các dịch vụ trực tuyến do 123Chat cung cấp bao gồm nhưng không giới hạn các dịch vụ cụ thể sau: truy cập, tra cứu thông tin bác sĩ, trò chuyện bằng hình thức trực tuyến trên ứng dụng 123Chat. Khách hàng sử dụng tài khoản đăng nhập và mật khẩu do 123Chat cấp để truy cập hệ thống và sử dụng dịch vụ.
+<br>
+2.2.  Ứng dụng (APP): là ứng dụng phần mềm có tên 123Chat hoặc một tên khác được thay đổi tuỳ từng thời kỳ (nơi có lưu giữ Bản Điều Kiện và Điều Khoản này), thuộc sở hữu của Metaco Trương Văn  hoặc một đơn vị khác do Metaco Trương Văn ủy quyền quản lý, khai thác nhằm hỗ trợ mọi mặt về thông tin, của Khách hàng .
+<br>
+2.3.  Tài khoản đăng nhập (User): có nghĩa là tên truy cập do Khách hàng đăng ký thành công với 123Chat để truy cập và sử dụng dịch vụ. Khách hàng tại đây đồng ý cho phép 123Chat khởi tạo Tài khoản đăng nhập cho Khách hàng thông qua việc sử dụng dữ liệu thông tin Khách hàng từ tài khoản 123Chat.
+<br>
+2.4.  Mật khẩu truy cập: có nghĩa là dãy các ký tự mà Khách hàng đăng ký thành công để truy cập vào Ứng dụng và thực hiện trò chuyện.
+<br>
+2.5.  Mã OTP (One time password): có nghĩa là mật khẩu sử dụng một lần do Ứng dụng tự động cung cấp cho Khách hàng bằng thư gửi tới số email Khách hàng đã đăng ký với 123Chat, sử dụng trong việc xác thực email.
+<br>
+<br>
+<p><b>ĐIỀU 3.  TRUY CẬP VÀ SỬ DỤNG ỨNG DỤNG</b></p>
+<br>
+3.1.  Khi khởi tạo tài khoản trên APP, cam kết không gửi bất cứ bài viết có nội dung lừa đảo, thô tục, thiếu văn hoá; vu khống, khiêu khích, đe doạ người khác; liên quan đến các vấn đề tình dục hay bất cứ nội dung nào vi phạm luật pháp của quốc gia mà bạn đang sống, luật pháp của quốc gia nơi đặt máy chủ của ỨNG DỤNG này hay luật pháp quốc tế. Nếu vẫn cố tình vi phạm, ngay lập tức bạn sẽ bị cấm tham gia vào 123Chat. Địa chỉ IP của tất cả các bài viết đều được ghi nhận lại để bảo vệ các điều khoản cam kết này trong trường hợp bạn không tuân thủ.
+<br>
+3.2.  123Chat có quyền gỡ bỏ, sửa, di chuyển hoặc khoá bất kỳ bài viết nào trong 123Chat vào bất cứ lúc nào tuỳ theo nhu cầu công việc.
+<br>
+<br>
+<p><b>ĐIỀU 4.  TRÁCH NHIỆM CỦA KHÁCH HÀNG</b></p>
+<br>
+4.1.  Đăng ký làm thành viên của chúng tôi, bạn cũng phải đồng ý rằng, bất kỳ thông tin cá nhân nào mà bạn cung cấp đều được lưu trữ trong cơ sở dữ liệu của hệ thống. Mặc dù những thông tin này sẽ không được cung cấp cho bất kỳ người thứ ba nào khác mà không được sự đồng ý của bạn, chúng tôi không chịu trách nhiệm về việc những thông tin cá nhân này của bạn bị lộ ra bên ngoài từ những kẻ phá hoại có ý đồ xấu tấn công vào cơ sở dữ liệu của hệ thống
+<br>
+<br>
+<p><b>ĐIỀU 5.  BẢO MẬT THÔNG TIN</b></p>
+<br>
+5.1.Các bên cam kết chỉ sử dụng Thông Tin Bảo Mật cho mục đích thực hiện Điều Khoản, Điều Kiện Giao Dịch và không tiết lộ, bất kể trực tiếp hay gián tiếp, Thông Tin Bảo Mật cho bất kỳ bên thứ tư nào.
+<br>
+5.2.  Hai bên cam kết áp dụng tất cả biện pháp cần thiết để đảm bảo Thông Tin Bảo Mật được sử dụng theo đúng thỏa thuận tại Điều Khoản, Điều Kiện Giao Dịch, và áp dụng những biện pháp cần thiết để ngăn ngừa việc tiết lộ Thông Tin Bảo Mật.
+<br>
